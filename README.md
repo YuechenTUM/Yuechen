@@ -33,7 +33,7 @@ Considering that there are few previous studies on long­term CFD simulations of
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; max-width: 50%;">
-    <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Mesh.jpg" alt="Model Mesh" style="width: 100%; max-width: 600px;"/>
+    <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Mesh.jpg" alt="Model Mesh" style="width: 50%; max-width: 600px;"/>
   </div>
   <div style="flex: 1; max-width: 50%; padding-left: 10px;">
     <p>
