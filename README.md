@@ -4,7 +4,8 @@
 - **Description**: Master thesis.
 - **Technologies Used**: Ansys Fluent.
 
-With the progress of industrialization, there is a growing focus on developing sustainable technologies to reduce carbon emissions and slow global warming globally. Among these, PTES (Pit Thermal Energy Storage) can be well integrated into DH (District Heating) to assist the solar collector field in providing flexibility to systems. Denmark has successfully implemented several large­scale projects, proving that PTES has a promising future from a practical perspective, and more and more projects using this technology are being implemented in the foreseeable future.
+## Abstract
+With the progress of industrialization, there is a growing focus on developing sustainable technologies to reduce carbon emissions and slow global warming. For instance, photovoltaics, as a mature technology, has been widely used in recent years, the mismatch between the production and demand side of solar energy must be clarified, although it is a promising renewable energy alternative, hence, applying seasonal thermal energy storage technology in solar district heating systems can effectively compensate for the lack of system elasticity. Among these, PTES (Pit Thermal Energy Storage) can be well integrated into DH (District Heating) to assist the solar collector field in providing flexibility to systems. Denmark has successfully implemented several large­scale projects, proving that PTES has a promising future from a practical perspective, and more and more projects using this technology are being implemented in the foreseeable future.
 <table>
   <tr>
     <td style="text-align: center;">
