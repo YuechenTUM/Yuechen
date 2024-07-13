@@ -1,10 +1,10 @@
-# Yuechen
 # Main Projects
 
 ## CFD simulation and optimization of water pit heat storage
 - **Description**: Master thesis.
 - **Technologies Used**: Ansys Fluent.
 
+With the progress of industrialization, there is a growing focus on developing sustainable technologies to reduce carbon emissions and slow global warming globally. Among these, PTES (Pit Thermal Energy Storage) can be well integrated into DH (District Heating) to assist the solar collector field in providing flexibility to systems. Denmark has successfully implemented several large­scale projects, proving that PTES has a promising future from a practical perspective, and more and more projects using this technology are being implemented in the foreseeable future.
 <table>
   <tr>
     <td style="text-align: center;">
@@ -23,5 +23,6 @@
 </table>
 
 ## Video Demonstration
-
 [![Watch the video](https://img.youtube.com/vi/qmprPzF2EIw/0.jpg)](https://www.youtube.com/watch?v=qmprPzF2EIw)
+
+
