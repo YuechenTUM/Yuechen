@@ -33,10 +33,10 @@ Considering that there are few previous studies on long­term CFD simulations of
 
 <table style="width: 100%;">
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 75%; vertical-align: top;">
       <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Mesh.jpg" alt="Model Mesh" style="width: 100%;"/>
     </td>
-    <td style="width: 50%; vertical-align: top; padding-left: 10px;">
+    <td style="width: 25%; vertical-align: top; padding-left: 10px;">
       <p>
         The geometry is constructed using ANSYS DesignModeler, meshing is accomplished via ANSYS Meshing and the CFD simulations are conducted using ANSYS Fluent, version 2020R1. To improve efficiency and reduce calculation time, this study simplifies the model. The inlet and outlet of the original model were relocated to the centre of the water body, and the entire model was converted into a quarter using the symmetry of the origin geometry.
       </p>
