@@ -31,3 +31,11 @@ Considering that there are few previous studies on long­term CFD simulations of
 
 ## Numerical analysis of Long­ term 3D model
 
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model%20Geometry.jpg" alt="Model geometry" width="500" height="300"/>
+    <td style="text-align: center;">
+      <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model%20Mesh.jpg" alt="Model Mesh" width="500" height="300"/>
+  </tr>
+</table>
