@@ -6,6 +6,9 @@
 
 ## Abstract
 With the progress of industrialization, there is a growing focus on developing sustainable technologies to reduce carbon emissions and slow global warming. For instance, photovoltaics, as a mature technology, has been widely used in recent years, the mismatch between the production and demand side of solar energy must be clarified, although it is a promising renewable energy alternative, hence, applying seasonal thermal energy storage technology in solar district heating systems can effectively compensate for the lack of system elasticity. Among these, PTES (Pit Thermal Energy Storage) can be well integrated into DH (District Heating) to assist the solar collector field in providing flexibility to systems. Denmark has successfully implemented several large­scale projects, proving that PTES has a promising future from a practical perspective, and more and more projects using this technology are being implemented in the foreseeable future.
+
+Considering that there are few previous studies on long­term CFD simulations of pit thermal energy storage systems, this paper aims to use CFD technology to deeply study the operating characteristics of PTES systems over a long period. It aims to improve computational efficiency by optimizing the computational model, numerical settings, hardware and software settings, exploring the balance between computational efficiency and accuracy, and aiming to quickly and accurately complete the simulation in the long run. 
+
 <table>
   <tr>
     <td style="text-align: center;">
