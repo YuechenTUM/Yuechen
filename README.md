@@ -31,3 +31,6 @@ Considering that there are few previous studies on long­term CFD simulations of
 
 ## Numerical analysis of Long­ term 3D model
 
+<img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model.jpg" alt="Model" width="600"/>
+
+
