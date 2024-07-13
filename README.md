@@ -33,21 +33,24 @@ Considering that there are few previous studies on long­term CFD simulations of
 
 <table style="width: 100%;">
   <tr>
-    <td style="width: 60%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top;">
       <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Mesh.jpg" alt="Model Mesh" style="width: 100%;"/>
     </td>
-    <td style="width: 40%; vertical-align: top; padding-left: 10px;">
+    <td style="width: 50%; vertical-align: top; padding-left: 20px;">
       <p>
         The geometry is constructed using ANSYS DesignModeler, meshing is accomplished via ANSYS Meshing and the CFD simulations are conducted using ANSYS Fluent, version 2020R1. To improve efficiency and reduce calculation time, this study simplifies the model. The inlet and outlet of the original model were relocated to the centre of the water body, and the entire model was converted into a quarter using the symmetry of the origin geometry.
       </p>
     </td>
   </tr>
+</table>
+<table style="width: 100%; margin-top: 10px;">
   <tr>
-    <td colspan="2" style="padding-top: 10px;">
+    <td style="vertical-align: top;">
       <p>
         The length and width of the computational domain of this CFD model are both 135 meters, and the height is 66 meters, the artificial computational domain size was set to 55 m from the edge of the water body and 30 m from the bottom of the water body, which was considered to eliminate the impact of the artificial computational domain size selection. The water body is prism-shaped, with a top length and width of 45 meters, a bottom length and width of 13 meters, and an overall depth of 16 meters; a slope angle of 26.6° is specially chosen for the water body to reduce construction costs and prevent sidewall collapse [18].
       </p>
     </td>
   </tr>
 </table>
+
 
