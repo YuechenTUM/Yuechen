@@ -14,7 +14,7 @@ Considering that there are few previous studies on long­term CFD simulations of
     <td style="text-align: center;">
       <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Dronninglund%20PTES.jpg" alt="Dronninglund PTES" width="500" height="300"/>
       <p>
-        Figure 1: <a href="https://planenergi.eu/wp-content/uploads/2023/09/SUNSTORE-3-Phase-2-Implementation.pdf" target="_blank">Aerial view of the PTES and solar collector field</a>
+        Figure 1: <a href="https://planenergi.eu/wp-content/uploads/2023/09/SUNSTORE-3-Phase-2-Implementation.pdf" target="_blank">Aerial view of the PTES and solar collectors </a>
       </p>
     </td>
     <td style="text-align: center;">
