@@ -42,7 +42,7 @@ The geometry is constructed using ANSYS DesignModeler, meshing is accomplished v
       </p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Water_mesh" alt="Water mesh" width="500" height="300"/>
+      <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Water_mesh.jpg" alt="Water mesh" width="500" height="300"/>
       <p>
         Figure 2: <a href="https://planenergi.eu/wp-content/uploads/2023/09/SUNSTORE-3-Phase-2-Implementation.pdf" target="_blank">Construction of the pit heat water storage</a>
       </p>
