@@ -9,11 +9,15 @@
   <tr>
     <td style="text-align: center;">
       <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Dronninglund%20PTES.jpg" alt="Dronninglund PTES" width="400" height="300"/>
-      <p>Figure 1: Dronninglund PTES</p>
+      <p>
+        Figure 1: <a href="https://planenergi.eu/wp-content/uploads/2023/09/SUNSTORE-3-Phase-2-Implementation.pdf" target="_blank">Dronninglund PTES</a>
+      </p>
     </td>
     <td style="text-align: center;">
       <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Dronninglund%20Implementation.png" alt="Dronninglund Implementation" width="400" height="300"/>
-      <p>Figure 2: Dronninglund Implementation</p>
+      <p>
+        Figure 2: <a href="https://planenergi.eu/wp-content/uploads/2023/09/SUNSTORE-3-Phase-2-Implementation.pdf" target="_blank">Dronninglund Implementation</a>
+      </p>
     </td>
   </tr>
 </table>
