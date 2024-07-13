@@ -34,8 +34,16 @@ Considering that there are few previous studies on long­term CFD simulations of
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model%20Geometry.jpg" alt="Model geometry" width="500" height="300"/>
+      <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Geometry.jpg" alt="Model Geometry" width="500" height="300"/>
+      <p>
+        Figure 3: Model Geometry
+      </p>
+    </td>
     <td style="text-align: center;">
-      <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model%20Mesh.jpg" alt="Model Mesh" width="500" height="300"/>
+      <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Mesh.jpg" alt="Model Mesh" width="500" height="300"/>
+      <p>
+        Figure 4: Model Mesh
+      </p>
+    </td>
   </tr>
 </table>
