@@ -33,7 +33,7 @@ Considering that there are few previous studies on long­term CFD simulations of
 
 <table style="width: 100%;">
   <tr>
-    <td style="width: 75%; vertical-align: top;">
+    <td style="width: 100%; vertical-align: top;">
       <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Mesh.jpg" alt="Model Mesh" style="width: 100%;"/>
     </td>
     <td style="width: 25%; vertical-align: top; padding-left: 10px;">
