@@ -31,12 +31,5 @@ Considering that there are few previous studies on long­term CFD simulations of
 
 ## Numerical analysis of Long­ term 3D model
 
-## Numerical analysis of Long term 3D model
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Mesh.jpg" alt="Model Mesh" width="500" style="margin-right: 10px;"/>
-  <p>
-    This is a detailed numerical analysis of the long term 3D model. The mesh was generated using ANSYS software and the simulation was carried out to study the thermal behavior of the storage pit. The figure on the left shows the detailed mesh structure used for the simulation. The results indicated that the mesh was well refined and provided accurate simulation results.
-  </p>
-</div>
+<img src="https://github.com/YuechenTUM/Yuechen/raw/main/Figures/Model_Mesh.jpg" alt="Model Mesh" width="500" style="margin-right: 10px;"/>
 
